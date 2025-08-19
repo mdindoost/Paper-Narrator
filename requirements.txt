@@ -1,0 +1,18 @@
+# Core Dependencies
+PyPDF2==3.0.1
+requests==2.31.0
+python-dotenv==1.0.0
+
+# AI/ML Libraries
+langchain==0.1.0
+langchain-community==0.0.10
+
+# Development & Testing
+reportlab==4.0.4
+tqdm==4.66.1
+colorama==0.4.6
+
+# Future Phases (commented out for now)
+# bark==1.0.0           # Phase 3: TTS
+# moviepy==1.0.3        # Phase 4: Video
+# pydub==0.25.1         # Phase 3: Audio processing

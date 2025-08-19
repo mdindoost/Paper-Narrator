@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Project Specific
+# Generated outputs (too large for git)
+data/output/
+data/input/*.pdf
+*.pdf
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Audio files (Phase 3)
+*.mp3
+*.wav
+*.m4a
+
+# Video files (Phase 4)  
+*.mp4
+*.avi
+*.mov
+
+# Model files (too large)
+models/
+*.model
+
+# Backup files (cleanup artifacts)
+*.backup
+*_old.py
+*_test.py
+debug_*.py
+fix_*.py
+compare_*.py
+upgrade_*.py
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
