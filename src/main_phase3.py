@@ -6,7 +6,7 @@ import json
 from typing import Dict
 from pdf_processor import PDFProcessor
 from summarizer_final_fixed_v2 import FinalFixedPaperSummarizerV2 as FinalFixedPaperSummarizer
-from dialogue_generator_fixed import FixedDialogueEngine
+from robust_pipeline_integration import RobustDialogueEngine as FixedDialogueEngine
 from audio_generator_simple_reliable import ReliableAudioGenerator as YouTubeAudioGenerator
 from config import OUTPUT_DIR
 

@@ -1,5 +1,5 @@
-# src/personalities_updated.py
-"""Updated AI Personality System with Dr. Ava D. for YouTube content"""
+# src/personalities_updated.py - FIXED VERSION
+"""Updated AI Personality System - FIXED Bug 4 (Speaker Names)"""
 
 from typing import Dict, List, Any
 from dataclasses import dataclass
@@ -20,17 +20,17 @@ class PersonalityProfile:
 
 
 class UpdatedResearchPersonalities:
-    """Updated personality system with Dr. Ava D."""
+    """Updated personality system - FIXED speaker names"""
     
     def __init__(self):
         self.personalities = self._define_personalities()
     
     def _define_personalities(self) -> Dict[str, PersonalityProfile]:
-        """Define the updated research personalities"""
+        """Define the updated research personalities - FIXED"""
         
         return {
             "optimist": PersonalityProfile(
-                name="Dr. Ava D.",  # Updated name
+                name="Dr. Ava D.",  # FIXED: Consistent name
                 role="The Enthusiastic Researcher",
                 expertise=[
                     "Machine Learning", "Data Science", "Algorithm Development",
@@ -67,7 +67,7 @@ class UpdatedResearchPersonalities:
             ),
             
             "skeptic": PersonalityProfile(
-                name="Prof. Marcus Webb",
+                name="Prof. Marcus W.",  # FIXED: Changed from "Prof. Marcus Webb" to "Prof. Marcus W."
                 role="The Critical Analyst", 
                 expertise=[
                     "Research Methodology", "Statistical Analysis", "Experimental Design",
@@ -129,7 +129,7 @@ Welcome to Research Rundown!
 
 Today's explosive topic: '{paper_title}' - a research study that promises to be revolutionary. But is it revolutionary breakthrough or overblown hype? 
 
-Dr. Ava D. and Prof. Marcus Webb are about to find out!"
+Dr. Ava D. and Prof. Marcus W. are about to find out!"
 
 Make it dramatic and YouTube-engaging while being specific about the actual research topic.
 
