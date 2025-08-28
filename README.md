@@ -730,7 +730,7 @@ pre-commit install
 - ✅ Speaker image support
 - ✅ Logo branding integration
 
-### Version 1.1 (Q2 2024)
+### Version 1.1 (Q2 2025)
 
 - 🔄 **In Progress**: Windows compatibility improvements
 - 🔄 **In Progress**: Batch processing optimization
@@ -738,7 +738,7 @@ pre-commit install
 - 📋 **Planned**: Configuration GUI
 - 📋 **Planned**: Video template system
 
-### Version 1.2 (Q3 2024)
+### Version 1.2 (Q3 2025)
 
 - 📋 **Planned**: Multi-language support (Spanish, French, German)
 - 📋 **Planned**: Custom voice training
@@ -746,7 +746,7 @@ pre-commit install
 - 📋 **Planned**: Cloud deployment options
 - 📋 **Planned**: Web interface
 
-### Version 2.0 (Q4 2024)
+### Version 2.0 (Q4 2025)
 
 - 🚀 **Vision**: Real-time paper analysis
 - 🚀 **Vision**: Interactive video generation
@@ -818,20 +818,20 @@ If you use AI Paper Narrator in your research or educational work, please cite:
 ```bibtex
 @software{ai_paper_narrator2024,
   title = {AI Paper Narrator: Automated Academic Video Generation},
-  author = {[Your Name]},
-  year = {2024},
-  url = {https://github.com/yourusername/},
+  author = {[Mohammad Dindoost]},
+  year = {2025},
+  url = {https://github.com/mdindoost/},
   note = {Software for transforming research papers into educational videos}
 }
 ```
 
 ### APA Style
 
-[Your Name]. (2024). *AI Paper Narrator: Automated Academic Video Generation* [Computer software]. https://github.com/yourusername/
+[Mohammad Dindoost]. (2024). *AI Paper Narrator: Automated Academic Video Generation* [Computer software]. https://github.com/mdindoost/
 
 ### MLA Style
 
-[Your Name]. "AI Paper Narrator: Automated Academic Video Generation." *GitHub*, 2024, https://github.com/yourusername/.
+[Mohammad Dindoost]. "AI Paper Narrator: Automated Academic Video Generation." *GitHub*, 2024, https://github.com/mdindoost/.
 
 ### Research Applications
 
@@ -903,23 +903,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[Your Name]**
 - 📧 Email: your.email@domain.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 🐙 GitHub: [@yourusername](https://github.com/mdindoost)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 🌐 Website: [your-website.com](https://your-website.com)
 
 ### Project Links
 
-- 📂 **Repository**: https://github.com/yourusername/
-- 🐛 **Issues**: https://github.com/yourusername//issues
-- 💬 **Discussions**: https://github.com/yourusername//discussions
-- 📋 **Project Board**: https://github.com/yourusername//projects
-- 📚 **Documentation**: https://yourusername.github.io/
+- 📂 **Repository**: https://github.com/mdindoost/
+- 🐛 **Issues**: https://github.com/mdindoost//issues
+- 💬 **Discussions**: https://github.com/mdindoost//discussions
+- 📋 **Project Board**: https://github.com/mdindoost//projects
+- 📚 **Documentation**: https://mdindoost.github.io/
 
 ### Support
 
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername//discussions)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername//issues)
-- ❓ **Questions**: [GitHub Discussions Q&A](https://github.com/yourusername//discussions/categories/q-a)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/mdindoost//discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/mdindoost//issues)
+- ❓ **Questions**: [GitHub Discussions Q&A](https://github.com/mdindoost//discussions/categories/q-a)
 - 💬 **Community Chat**: [Discord Server](https://discord.gg/your-invite)
 
 ### Professional Services
@@ -929,7 +929,7 @@ Need custom implementation or enterprise support?
 - 🎓 **Training**: Workshops on AI-powered content creation
 - 🔧 **Custom Development**: Tailored features for your organization
 
-Contact: professional@your-domain.com
+Contact: md724@njit.edu
 
 ---
 
