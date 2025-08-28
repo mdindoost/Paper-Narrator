@@ -764,7 +764,7 @@ pre-commit install
 
 ### Community Requests
 
-Vote on features at our [GitHub Discussions](https://github.com/yourusername//discussions)
+Vote on features at our [GitHub Discussions](https://github.com/mdindoost//discussions)
 
 - 📊 **Most Requested**: Web-based interface (45 votes)
 - 🎨 **Highly Requested**: Custom video themes (32 votes)
@@ -818,7 +818,7 @@ If you use AI Paper Narrator in your research or educational work, please cite:
 ```bibtex
 @software{ai_paper_narrator2024,
   title = {AI Paper Narrator: Automated Academic Video Generation},
-  author = {[Mohammad Dindoost]},
+  author = {Mohammad Dindoost},
   year = {2025},
   url = {https://github.com/mdindoost/},
   note = {Software for transforming research papers into educational videos}
@@ -901,9 +901,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Maintainer
 
-**[Your Name]**
-- 📧 Email: your.email@domain.com
-- 🐙 GitHub: [@yourusername](https://github.com/mdindoost)
+**[Mohammad Dindoost]**
+- 📧 Email: md724@njit.edu
+- 🐙 GitHub: [@mdindoost](https://github.com/mdindoost)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 🌐 Website: [your-website.com](https://your-website.com)
 
